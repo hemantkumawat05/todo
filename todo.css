@@ -1,0 +1,93 @@
+body
+{
+    background-color: aqua;
+}
+.main
+{
+    border: 2px solid black;
+    margin: 5% 25%;
+    padding: 12px;
+    background-color: white;
+}
+.firstdiv
+{
+    height: 100px;
+    font-size: xx-large;
+    font-weight: 800;
+    display: flex;
+    justify-content: center; 
+    align-items: center;  
+}
+button
+{
+    background-color: aqua;
+    border-color: aqua;
+}
+#todos
+{
+    color: rgb(32, 24, 139);
+}
+.searchdiv
+{
+    border: 2px solid red;
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+    padding: 10px 25% 10px 25%;
+}
+#idtodo
+{
+    border: 2px solid green;
+    width: 70%;
+    height: 20px;
+}
+#idbutton
+{
+    width: 30%;
+    height: auto;
+}
+
+
+.actionssection
+{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid blue;
+    margin: 10px;
+    
+}
+#actionssection1
+{
+    width: 15%;
+    border: 2px solid red;
+    padding: 10px;
+    text-align: center;
+    font-weight: bold;
+    font-size: x-large;
+}
+#actionssection2
+{
+    width: 50%;
+    border: 2px solid rgb(0, 247, 189);
+    padding: 10px;
+    text-align: center;
+    font-weight: bold;
+    font-size: x-large;
+}
+#actionssection3
+{
+    width:35% ;
+    border: 2px solid rgb(8, 9, 9);
+    padding: 10px;
+    text-align: center;
+    font-weight: bold;
+    font-size: x-large;
+}
+
+.todoclass{
+    border: 2px solid red;
+    margin: 15px;
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+}
