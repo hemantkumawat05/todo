@@ -1,3 +1,3 @@
 # todo
 create a todo page 
-authon -hemant kumawat
+-hemant kumawat
